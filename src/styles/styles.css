@@ -1,0 +1,14 @@
+.fondo_verde{
+  background-color: aquamarine;
+}
+
+.fondo_azul{
+    background-color: cadetblue;
+}
+
+.button{
+  background-color: coral;
+  cursor: pointer;
+  padding: 3px;
+  border: gray,1px,solid;
+}
